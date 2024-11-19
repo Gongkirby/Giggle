@@ -9,10 +9,10 @@
 
 ## 팀 소개
 
-|      강민주       |          공선영         |       변서영           |            변서영           |                                                                                                  
+|      강민주       |          공선영         |       변서영           |            유경민           |                                                                                                  
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
 |   <img width="160px" src="https://avatars.githubusercontent.com/u/101444425?v=4"  />    |                      <img width="160px" src="https://avatars.githubusercontent.com/u/102174849?v=4" />    |                   <img width="160px" src="https://avatars.githubusercontent.com/u/80518843?v=4"/>   |                     <img width="160px" src="https://avatars.githubusercontent.com/u/80339766?v=4"/>
-|   [@mnbvcxzyj](https://github.com/mnbvcxzyj)   |    [@Gongsunyoung](https://github.com/Gongsunyoung)  | [@da-jeong](https://github.com/da-jeong)  | [@hyunseo-han](https://github.com/hyunseo-han) | 
+|   [@mnbvcxzyj](https://github.com/mnbvcxzyj)   |    [@Gongkirby](https://github.com/Gongkirby)  | [@da-jeong](https://github.com/da-jeong)  | [@hyunseo-han](https://github.com/hyunseo-han) | 
 
 ---
 
