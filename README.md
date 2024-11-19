@@ -1,5 +1,5 @@
 # OTTown
-> **2023-02 데이터베이스 프로그래밍 팀 프로젝트** 
+> **2024-02 데이터베이스 프로그래밍 팀 프로젝트** 
 
 <div align="center" style="width:50px; height:50px" >
  <img width="329px" src="https://github.com/mnbvcxzyj/DBDB-deep/assets/101444425/1a485402-d3b9-40b1-a10b-72fac7017bf5" alt="joongologo" border="0">
